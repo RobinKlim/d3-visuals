@@ -1,0 +1,122 @@
+[
+    {
+        "pimRef": "100326288",
+        "text": "product is good",
+        "value": "4",
+        "approved": true,
+        "ratingDate": "2021-11-28T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": [
+            {
+                "identifier": "Rating_Attribute_1",
+                "type": "attribute",
+                "attributeDataType": "PLAIN_STRING",
+                "values": [
+                    {
+                        "value": "123"
+                    }
+                ],
+                "scopeName": "ARTICLERATING"
+            }
+        ]
+    },
+    {
+        "pimRef": "100326289",
+        "text": "product is good 2",
+        "value": "5",
+        "approved": true,
+        "ratingDate": "2021-11-29T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": []
+    },
+    {
+        "pimRef": "100326290",
+        "text": "product is good 2",
+        "value": "4",
+        "approved": true,
+        "ratingDate": "2021-11-29T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": []
+    },
+    {
+        "pimRef": "100326291",
+        "text": "product is good 2",
+        "value": "3",
+        "approved": true,
+        "ratingDate": "2021-11-29T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": []
+    },
+    {
+        "pimRef": "100326292",
+        "text": "product is good 2",
+        "value": "4",
+        "approved": true,
+        "ratingDate": "2021-11-29T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": []
+    },
+    {
+        "pimRef": "100326293",
+        "text": "product is good 2",
+        "value": "1",
+        "approved": true,
+        "ratingDate": "2021-11-29T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": []
+    },
+    {
+        "pimRef": "100326294",
+        "text": "product is good 2",
+        "value": "5",
+        "approved": true,
+        "ratingDate": "2021-11-29T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": []
+    },
+    {
+        "pimRef": "100326295",
+        "text": "product is good 2",
+        "value": "5",
+        "approved": true,
+        "ratingDate": "2021-11-29T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": []
+    },
+    {
+        "pimRef": "100326296",
+        "text": "product is good 2",
+        "value": "4",
+        "approved": true,
+        "ratingDate": "2021-11-29T14:56:19",
+        "countIsHelpful": 10,
+        "countIsNotHelpful": 0,
+        "ratingSystem": "iShop",
+        "ratingSystemRatingId": "100326288",
+        "attributes": []
+    }
+]
